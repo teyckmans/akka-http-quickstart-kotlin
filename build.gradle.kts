@@ -26,7 +26,7 @@ dependencies {
 }
 
 application {
-    mainClassName = "com.example.QuickstartApp"
+    mainClassName = "com.example.QuickstartAppKt"
 }
 
 val run by tasks.getting(JavaExec::class) {
